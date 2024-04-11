@@ -1,0 +1,16 @@
+spring:
+   datasource:
+      username: loaf_store
+      password: loaf_store
+      url: jdbc:mysql://localhost:3306/pet_store
+   
+   jpa:
+      hibernate:
+        ddl-auto: update
+      show-sql: true
+      
+      
+   sql:
+      init:
+         mode: 
+         
