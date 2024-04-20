@@ -1,0 +1,8 @@
+{
+  "petStoreName": "The Next to Last Store",
+  "petStoreAddress": "5 North Blammford Lane",
+  "petStoreCity": "Bompton",
+  "petStoreState": "California",
+  "petStoreZip" : "12345",
+  "petStorePhone": "555-555-4995"
+}
